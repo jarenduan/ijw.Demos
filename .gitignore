@@ -4,6 +4,8 @@
 # User-specific files
 *.suo
 *.user
+!*.*Reference.User
+!*.*References.User
 *.userosscache
 *.sln.docstates
 
